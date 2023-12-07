@@ -1,0 +1,9 @@
+This is calculator
+
+For start input command:  git clone https://github.com/kalukasan29a/Calculator
+
+cd Calculator
+
+g++ kalk.cpp
+
+./a.out
