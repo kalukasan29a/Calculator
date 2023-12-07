@@ -36,8 +36,8 @@ int main(){
 	main();
 	}
 	else if(c=="/"){
-		Kalk dilod;
-	double g =	dilod.divide(a, b);
+		Kalk divi;
+	double g =	divi.divide(a, b);
 		cout<<g<<endl;
 	main();
 	}
